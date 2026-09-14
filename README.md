@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Marco Antonio García">
+  <img src="https://avatars.githubusercontent.com/u/174848174?v=4" width="100%" alt="Marco Antonio García">
 </p>
 
 <h1 align="center">👋 Hola, soy Marco Antonio García</h1>
@@ -95,3 +95,5 @@ Desarrollo Web
                     │
                     ▼
              Mi objetivo final
+
+```
