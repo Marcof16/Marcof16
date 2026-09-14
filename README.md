@@ -7,9 +7,7 @@
   💻 Desarrollador Web · 🎨 Frontend Developer · 🎮 Futuro Game Developer
 </p>
 
-<p align="center">
-  🇵🇪 Perú
-</p>
+
 
 ---
 
