@@ -76,20 +76,4 @@ explorando otras áreas como aplicaciones móviles y desarrollo de videojuegos.
 
 ---
 
-## 🎮 Mi camino como desarrollador
 
-```text
-Desarrollo Web
-      │
-      ├── Frontend
-      │
-      ├── Backend
-      │
-      ├── Aplicaciones móviles
-      │
-      └── 🎮 Desarrollo de videojuegos
-                    │
-                    ▼
-             Mi objetivo final
-
-```
